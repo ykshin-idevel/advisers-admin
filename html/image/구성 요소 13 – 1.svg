@@ -1,0 +1,18 @@
+<svg id="구성_요소_13_1" data-name="구성 요소 13 – 1" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #3083ff;
+      }
+    </style>
+  </defs>
+  <circle id="타원_72" data-name="타원 72" class="cls-1" cx="15" cy="15" r="15"/>
+  <g id="그룹_16" data-name="그룹 16" transform="translate(-464 -1420)">
+    <rect id="사각형_215" data-name="사각형 215" class="cls-2" width="3" height="12" transform="translate(475 1429)"/>
+    <rect id="사각형_216" data-name="사각형 216" class="cls-2" width="3" height="12" transform="translate(480 1429)"/>
+  </g>
+</svg>
